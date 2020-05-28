@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       ry="30.339951"
+       y="28.353073"
+       x="66.478638"
+       height="211.84062"
+       width="91.064278"
+       id="rect1067"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.56409419;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64903843;paint-order:stroke fill markers" />
+    <circle
+       r="25.777039"
+       cy="70.733009"
+       cx="111.84566"
+       id="path1071"
+       style="fill:#ff2121;fill-opacity:1;stroke:#000000;stroke-width:1.39266515;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64903843;paint-order:stroke fill markers" />
+    <circle
+       r="25.777039"
+       cy="136.63828"
+       cx="112.2532"
+       id="path1071-6"
+       style="fill:#5c5a00;fill-opacity:1;stroke:#000000;stroke-width:1.39266527;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64903843;paint-order:stroke fill markers" />
+    <circle
+       r="25.777039"
+       cy="200.24843"
+       cx="113.32228"
+       id="path1071-6-6"
+       style="fill:#0c500c;fill-opacity:1;stroke:#000000;stroke-width:1.39266539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.64903843;paint-order:stroke fill markers" />
+  </g>
+</svg>
